@@ -6,9 +6,12 @@ In this challenge we dealth with data which hd inherent imbalance, in this case,
 
 Through resampling, we were able to amplify the balance between the healthy and risky loans and attain a higher recall score so critical in predicting which loans are likley to fail.
 
+# Analysis
+
+## Purpose
+The purpose of this analysis is to discuss the fact that rarely will a model perform as needed for all types of data in a dataset due to the fact that most data sets are inherently imbalnced. What that means is that the larger sample in the set may appear to be highly accurate while the smaller set will not perform at the level necessary to rely on it.
 
 
-## Analysis
 ![Fig. 6](https://github.com/toniahurst/FinTech_Module_12/blob/main/images/Fig_6.png)
 
 # Images
