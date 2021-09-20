@@ -35,6 +35,13 @@ The purpose of this analysis is to discuss the fact that rarely will a model per
 
 ![Fig. 5](https://github.com/toniahurst/FinTech_Module_12/blob/main/images/Fig_5.png)
 
+# Summary
+
+In this challenge, we used two machine learning models and considered a number of different metrics for performance. By far the most important metric we considered was recall which looked at expected outcomes for loan risk.
+
+Even though in the second model we resampled existing data to balance the imbalanced dataset and even though this led to slight decreases in the metrics relative to the original machine learning model we created, the ability of the second model to improve the erros of imbalance more than made up for any changes in other metrics such as precision which was not as accurate in model 2.
+
+
 ## Technologies
 
 This program uses Python 3.7.10, Anaconda version 4.10.3, and JupyterLab 3.0.14. It also uses libraries from Pandas, Imbalanced-learn and PyDotPlus. It was written on macOS Catalina 10.15.7.
