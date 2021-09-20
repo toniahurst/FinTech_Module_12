@@ -28,7 +28,7 @@
 
 ## Technologies
 
-This program uses Python 3.7.10, Anaconda version 4.10.3, and JupyterLab 3.0.14. It also uses libraries from Pandas, hvplot, FBProphet, Holoviews, pystan, Bokeh and Google Colaboratory. It was written on macOS Catalina 10.15.7.
+This program uses Python 3.7.10, Anaconda version 4.10.3, and JupyterLab 3.0.14. It also uses libraries from Pandas, Imbalanced-learn and PyDotPlus. It was written on macOS Catalina 10.15.7.
 
 ## Usage
 
