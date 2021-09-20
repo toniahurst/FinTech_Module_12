@@ -2,6 +2,9 @@
 
 # Background
 
+In this challenge we dealth with data which hd inherent imbalance, in this case, for healthy and risky loans. In our sample set, risky loans occurred far less often but still at levels of loss unaccaptable for most businesses. In our first attempt to train and evaluate a logistric regression model, it became clear that while the model worked well for loans classfiied as "0" (healthy loans) with a recall of close to 99%, the performance for recall for risky loans led to almost 10% of risky loans not being detected by the model. 
+
+Through resampling, we were able to amplify the balance between the healthy and risky loans and attain a higher recall score so critical in predicting which loans are likley to fail.
 
 
 # Images
