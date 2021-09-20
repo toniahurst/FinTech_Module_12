@@ -6,6 +6,11 @@ In this challenge we dealth with data which hd inherent imbalance, in this case,
 
 Through resampling, we were able to amplify the balance between the healthy and risky loans and attain a higher recall score so critical in predicting which loans are likley to fail.
 
+
+
+## Analysis
+![Fig. 6](https://github.com/toniahurst/FinTech_Module_12/blob/main/images/Fig_6.png)
+
 # Images
 
 ## Fig. 1: 
@@ -26,9 +31,6 @@ Through resampling, we were able to amplify the balance between the healthy and 
 ## Fig. 5: 
 
 ![Fig. 5](https://github.com/toniahurst/FinTech_Module_12/blob/main/images/Fig_5.png)
-
-## Analysis
-![Fig. 6](https://github.com/toniahurst/FinTech_Module_12/blob/main/images/Fig_6.png)
 
 ## Technologies
 
